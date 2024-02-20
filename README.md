@@ -9,7 +9,7 @@ This is the code repo of PFCon
 │  
 ├── dataset
 │	├── channel_info_cleaned.txt
-│ ├── applets_info_60000.txt
+│	├── applets_info_60000.txt
 │
 
 
