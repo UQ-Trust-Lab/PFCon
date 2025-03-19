@@ -30,3 +30,8 @@ The file `GPT4_c.py` provides several examples of how to assign tasks to  ChatGP
 
 ## Prompt
 Our paper provides a detailed demonstration of the CoT and tutorials of prompts for different tasks.
+
+## Paper and usage:
+The paper is available at: https://dl.acm.org/doi/10.1145/3589334.3645721
+
+The overflow and usage of PFCon is available at: https://youtu.be/DTUhCvpVxE8
